@@ -2,7 +2,7 @@
 {"messages":[{"role":"system","content":"어려운 어휘보다는 일상적으로 사용하는 어휘로 표현한다."},{"role":"user","content":"그는 정치적인 맥락에서 매우 민감한 입장을 가지고 있다."},{"role":"assistant","content":"그는 정치적인 문제에서 매우 조심스러운 태도를 보였습니다."}]}
 {"messages":[{"role":"system","content":"연령에 맞는 관심사와 주제는 유지하되 쉬운 어휘로 표현한다."},{"role":"user","content":"청소년들은 종종 자아 정체성에 대해 혼란을 느낀다."},{"role":"assistant","content":"청소년들은 가끔 자기 자신에 대해 헷갈립니다."}]}
 {"messages":[{"role":"system","content":"청소년이나 성인의 경우 지나치게 낮은 수준의 어휘는 지양한다."},{"role":"user","content":"그의 행동은 매우 비합리적이고 비이성적이다."},{"role":"assistant","content":"그의 행동은 매우 이상하고 이해하기 어렵습니다."}]}
-{"messages":[{"role":"system","content":"어려운 어휘를 사용할 때, 이를 설명하거나 괄호 안에 동일한 의미의 쉬운 어휘 제시하거나 각주 처리를 한다."},{"role":"user","content":"그는 항상 소신(자신의 믿음)을 지킨다."},{"role":"assistant","content":"그는 항상 자신의 믿음을 지킵니다."}]}
+{"messages":[{"role":"system","content":"어려운 어휘를 쉬운 어휘로 변경하기 어려운 경우, 다음 문장에 쉬운 단어로 설명하기 혹은 괄호 안에 동일한 의미의 쉬운 어휘 제시하기."},{"role":"user","content":"그는 항상 소신을 지킨다."},{"role":"assistant","content":"그는 항상 자신의 믿음을 지킵니다."}]}
 {"messages":[{"role":"system","content":"어려운 어휘를 사용할 때 어휘 이해를 위한 상황 단서를 제공한다."},{"role":"user","content":"그의 연설은 매우 감동적이었다."},{"role":"assistant","content":"그의 연설은 사람들을 매우 감동시켰다. 많은 사람들이 눈물을 흘렸습니다."}]}
 {"messages":[{"role":"system","content":"축약어는 사용하지 않는다. 사용해야 한다면, 축약어는 원 명칭을 괄호 안에 함께 제시한다."},{"role":"user","content":"그는 NASA에서 일하고 있다."},{"role":"assistant","content":"그는 미국 항공우주국(NASA)에서 일하고 있습니다."}]}
 {"messages":[{"role":"system","content":"축약어는 저자가 아닌 독자의 편의를 위해서만 사용하고, 분명한 이유가 없을 때에는 원 명칭을 그대로 사용 한다."},{"role":"user","content":"SEO는 현대 마케팅의 중요한 부분이다."},{"role":"assistant","content":"검색 엔진 최적화(SEO)는 현대 마케팅의 중요한 부분입니다."}]}
@@ -18,8 +18,8 @@
 {"messages":[{"role":"system","content":"연령에 맞는 관심사와 주제는 유지하되 쉬운 어휘로 표현한다."},{"role":"user","content":"그녀는 타인에 대한 배려심이 돋보이는 학생이다."},{"role":"assistant","content":"그녀는 다른 사람을 잘 도와주는 학생입니다."}]}
 {"messages":[{"role":"system","content":"청소년이나 성인의 경우 지나치게 낮은 수준의 어휘는 지양한다."},{"role":"user","content":"그는 매우 현명한 결정을 내렸다."},{"role":"assistant","content":"그는 아주 좋은 선택을 했습니다."}]}
 {"messages":[{"role":"system","content":"청소년이나 성인의 경우 지나치게 낮은 수준의 어휘는 지양한다."},{"role":"user","content":"그녀는 뛰어난 분석력을 가지고 있다."},{"role":"assistant","content":"그녀는 잘 분석할 수 있습니다."}]}
-{"messages":[{"role":"system","content":"어려운 어휘를 사용할 때, 이를 설명하거나 괄호 안에 동일한 의미의 쉬운 어휘 제시하거나 각주 처리를 한다."},{"role":"user","content":"그는 타고난 리더십을 발휘하여 팀을 이끌었다."},{"role":"assistant","content":"그는 남을 잘 이끌어 팀을 이끌었습니다.(리더십은 남을 잘 이끄는 능력입니다.)"}]}
-{"messages":[{"role":"system","content":"어려운 어휘를 사용할 때, 이를 설명하거나 괄호 안에 동일한 의미의 쉬운 어휘 제시하거나 각주 처리를 한다."},{"role":"user","content":"그녀는 뛰어난 통찰력을 보여주었다."},{"role":"assistant","content":"그녀는 잘 이해하고 판단하는 능력(통찰력)을 보여주었습니다."}]}
+{"messages":[{"role":"system","content":"어려운 어휘를 쉬운 어휘로 변경하기 어려운 경우, 다음 문장에 쉬운 단어로 설명하기 혹은 괄호 안에 동일한 의미의 쉬운 어휘 제시하기."},{"role":"user","content":"그는 타고난 리더십을 발휘하여 팀을 이끌었다."},{"role":"assistant","content":"그는 리더십으로 팀을 이끌었습니다. 리더십은 남을 잘 이끄는 능력입니다."}]}
+{"messages":[{"role":"system","content":"어려운 어휘를 쉬운 어휘로 변경하기 어려운 경우, 다음 문장에 쉬운 단어로 설명하기 혹은 괄호 안에 동일한 의미의 쉬운 어휘 제시하기."},{"role":"user","content":"그녀는 뛰어난 통찰력을 보여주었다."},{"role":"assistant","content":"그녀는 잘 이해하고 판단하는 능력(통찰력)을 보여주었습니다."}]}
 {"messages":[{"role":"system","content":"어려운 어휘를 사용할 때 어휘 이해를 위한 상황 단서를 제공한다."},{"role":"user","content":"그는 타인에 대한 배려심이 돋보였다."},{"role":"assistant","content":"그는 다른 사람들을 잘 생각해주고 배려했습니다."}]}
 {"messages":[{"role":"system","content":"어려운 어휘를 사용할 때 어휘 이해를 위한 상황 단서를 제공한다."},{"role":"user","content":"그녀는 탁월한 창의성을 발휘하여 새로운 아이디어를 제안했다."},{"role":"assistant","content":"그녀는 남들과는 다른 새로운 생각을 해냈습니다."}]}
 {"messages":[{"role":"system","content":"특정지역이나 집단에서 통용되는 어휘를 사용 한다면 배경설명을 제공한다."},{"role":"user","content":"그는 동네에서 유명한 '똑순이'로 알려져 있다."},{"role":"assistant","content":"그는 동네에서 공부를 아주 잘하는 학생으로 알려져 있습니다."}]}
@@ -32,7 +32,7 @@
 {"messages":[{"role":"system","content":"어려운 어휘보다는 일상적으로 사용하는 어휘로 표현한다."},{"role":"user","content":"그는 기계의 작동 원리를 이해하지 못했다."},{"role":"assistant","content":"그는 기계가 어떻게 작동하는지 이해하지 못했습니다."}]}
 {"messages":[{"role":"system","content":"연령에 맞는 관심사와 주제는 유지하되 쉬운 어휘로 표현한다."},{"role":"user","content":"어린이들은 종종 친구와의 관계에서 스트레스를 받는다."},{"role":"assistant","content":"아이들은 친구와의 관계에서 스트레스를 받습니다."}]}
 {"messages":[{"role":"system","content":"청소년이나 성인의 경우 지나치게 낮은 수준의 어휘는 지양한다."},{"role":"user","content":"그는 항상 논리적 사고를 통해 문제를 해결하려고 한다."},{"role":"assistant","content":"그는 항상 논리적으로 생각해서 문제를 해결하려고 합니다."}]}
-{"messages":[{"role":"system","content":"어려운 어휘를 사용할 때, 이를 설명하거나 괄호 안에 동일한 의미의 쉬운 어휘 제시하거나 각주 처리를 한다."},{"role":"user","content":"그녀는 매사에 진취적(적극적)이다."},{"role":"assistant","content":"그녀는 항상 적극적입니다."}]}
+{"messages":[{"role":"system","content":"어려운 어휘를 사용할 때, 이를 설명하거나 괄호 안에 동일한 의미의 쉬운 어휘 제시하거나 각주 처리를 한다."},{"role":"user","content":"그녀는 매사에 진취적이다."},{"role":"assistant","content":"그녀는 항상 적극적입니다."}]}
 {"messages":[{"role":"system","content":"어려운 어휘를 사용할 때 어휘 이해를 위한 상황 단서를 제공한다."},{"role":"user","content":"그의 강연은 아주 영감을 주는 내용이었다."},{"role":"assistant","content":"그의 강연은 사람들에게 많은 영감을 주었습니다."}]}
 {"messages":[{"role":"system","content":"축약어는 사용하지 않는다. 사용해야 한다면, 축약어는 원 명칭을 괄호 안에 함께 제시한다."},{"role":"user","content":"우리 회사의 HR 부서가 새로운 정책을 발표했다."},{"role":"assistant","content":"우리 회사의 인사 부서(HR)가 새로운 정책을 발표했습니다."}]}
 {"messages":[{"role":"system","content":"축약어는 저자가 아닌 독자의 편의를 위해서만 사용하고, 분명한 이유가 없을 때에는 원 명칭을 그대로 사용 한다."},{"role":"user","content":"IT 기술이 현대 사회에 미치는 영향은 매우 크다."},{"role":"assistant","content":"정보 기술(IT)이 현대 사회에 미치는 영향은 매우 큽니다."}]}
@@ -75,9 +75,9 @@
 {"messages":[{"role":"system","content":"청소년이나 성인의 경우 지나치게 낮은 수준의 어휘는 지양한다."},{"role":"user","content":"그는 항상 논리적 사고를 통해 문제를 해결하려고 한다."},{"role":"assistant","content":"그는 항상 논리적으로 생각해서 문제를 해결하려고 합니다."}]}
 {"messages":[{"role":"system","content":"청소년이나 성인의 경우 지나치게 낮은 수준의 어휘는 지양한다."},{"role":"user","content":"그녀는 다양한 관점을 고려하여 결정을 내린다."},{"role":"assistant","content":"그녀는 여러 가지 관점을 고려하여 결정을 내립니다."}]}
 {"messages":[{"role":"system","content":"청소년이나 성인의 경우 지나치게 낮은 수준의 어휘는 지양한다."},{"role":"user","content":"그들은 주어진 자원을 최대한 활용해 프로젝트를 완성했다."},{"role":"assistant","content":"그들은 주어진 자원을 최대한 활용하여 프로젝트를 완성했습니다."}]}
-{"messages":[{"role":"system","content":"어려운 어휘를 사용할 때, 이를 설명하거나 괄호 안에 동일한 의미의 쉬운 어휘 제시하거나 각주 처리를 한다."},{"role":"user","content":"그는 사회적 의무를 다하기 위해 노력한다."},{"role":"assistant","content":"그는 사회적(사회와 관련된) 의무를 다하려고 노력합니다."}]}
-{"messages":[{"role":"system","content":"어려운 어휘를 사용할 때, 이를 설명하거나 괄호 안에 동일한 의미의 쉬운 어휘 제시하거나 각주 처리를 한다."},{"role":"user","content":"그녀는 매사에 진취적이다."},{"role":"assistant","content":"그녀는 항상 적극적입니다."}]}
-{"messages":[{"role":"system","content":"어려운 어휘를 사용할 때, 이를 설명하거나 괄호 안에 동일한 의미의 쉬운 어휘 제시하거나 각주 처리를 한다."},{"role":"user","content":"이 프로젝트는 매우 포괄적이다."},{"role":"assistant","content":"이 프로젝트는 매우 전반적(포괄적)입니다."}]}
+{"messages":[{"role":"system","content":"어려운 어휘를 쉬운 어휘로 변경하기 어려운 경우, 다음 문장에 쉬운 단어로 설명하기 혹은 괄호 안에 동일한 의미의 쉬운 어휘 제시하기."},{"role":"user","content":"그는 사회적 의무를 다하기 위해 노력한다."},{"role":"assistant","content":"그는 사회적(사회와 관련된) 의무를 다하려고 노력합니다."}]}
+{"messages":[{"role":"system","content":"어려운 어휘를 쉬운 어휘로 변경하기 어려운 경우, 다음 문장에 쉬운 단어로 설명하기 혹은 괄호 안에 동일한 의미의 쉬운 어휘 제시하기."},{"role":"user","content":"그녀는 매사에 진취적이다."},{"role":"assistant","content":"그녀는 항상 적극적입니다."}]}
+{"messages":[{"role":"system","content":"어려운 어휘를 쉬운 어휘로 변경하기 어려운 경우, 다음 문장에 쉬운 단어로 설명하기 혹은 괄호 안에 동일한 의미의 쉬운 어휘 제시하기."},{"role":"user","content":"이 프로젝트는 매우 포괄적이다."},{"role":"assistant","content":"이 프로젝트는 매우 전반적(포괄적)입니다."}]}
 {"messages":[{"role":"system","content":"어려운 어휘를 사용할 때 어휘 이해를 위한 상황 단서를 제공한다."},{"role":"user","content":"그의 강연은 아주 영감을 주는 내용이었다."},{"role":"assistant","content":"그의 강연은 사람들에게 많은 영감을 주었습니다."}]}
 {"messages":[{"role":"system","content":"어려운 어휘를 사용할 때 어휘 이해를 위한 상황 단서를 제공한다."},{"role":"user","content":"그녀는 깊은 사색을 통해 자신의 삶을 되돌아보았다."},{"role":"assistant","content":"그녀는 깊이 생각하면서 자신의 삶을 다시 생각해 보았습니다."}]}
 {"messages":[{"role":"system","content":"어려운 어휘를 사용할 때 어휘 이해를 위한 상황 단서를 제공한다."},{"role":"user","content":"그는 기계의 작동 원리를 이해하지 못했다."},{"role":"assistant","content":"그는 기계가 어떻게 작동하는지 이해하지 못했습니다."}]}
